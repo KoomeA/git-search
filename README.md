@@ -14,3 +14,7 @@ The application also allows users to search for repositories by entering the rep
 ## Author
 
 [Edward Koome](https://github.com/KoomeA)
+
+## License
+
+[MIT](https://raw.githubusercontent.com/KoomeA/git-search/master/LICENCE)
