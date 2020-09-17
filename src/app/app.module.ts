@@ -7,7 +7,7 @@ import { GitSearchService } from './git-search.service';
 import { AppComponent } from './app.component';
 import { ProfileComponent } from './profile/profile.component';
 import { HomeComponent } from './home/home/home.component';
-import { RepoComponent } from '../app/repo/repo/repo.component'
+import { RepoComponent } from '../app/repo/repo.component'
 //import { NgProgressModule } from 'ngx-progressbar/core';
 //import { NgProgressHttpModule } from '@ngx-progressbar/http';
 import { HighlightDirective } from './highlight.directive';

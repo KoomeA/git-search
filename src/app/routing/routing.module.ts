@@ -4,7 +4,7 @@ import { RouterModule, Routes } from '@angular/router';
 
 import { ProfileComponent } from '../profile/profile.component';
 import { HomeComponent } from '../home/home/home.component';
-import { RepoComponent } from '../repo/repo/repo.component';
+import { RepoComponent } from '../repo/repo.component';
 
 
 const routes:Routes =[
