@@ -12,6 +12,7 @@ import { RepoComponent } from '../app/repo/repo.component'
 //import { NgProgressHttpModule } from '@ngx-progressbar/http';
 import { HighlightDirective } from './highlight.directive';
 import { DateCountPipe } from './date-count.pipe';
+import { NavComponent } from './nav/nav.component';
 
 
 @NgModule({
@@ -22,7 +23,8 @@ import { DateCountPipe } from './date-count.pipe';
     RepoComponent,
     DateCountPipe,
     HighlightDirective,
-    DateCountPipe
+    DateCountPipe,
+    NavComponent
   ],
   imports: [
     BrowserModule,
